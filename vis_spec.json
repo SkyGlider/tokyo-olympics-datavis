@@ -20,21 +20,17 @@
       "data": {
         "url": "https://raw.githubusercontent.com/SkyGlider/3179wk9/main/medalscleansymbol.csv"
       },
-      "mark": {"type": "circle"},
+      "mark": {"type": "circle","color":"blue"},
       "encoding": {
         "latitude": {"field": "latitude"},
         "longitude": {"field": "longitude"},
         "size": {
           "field": "Total",
           "type": "quantitative",
-          "scale": {"rangeMax": 1000},
+          "scale": {"rangeMax": 5000},
           "legend": null
         },
-        "color": {
-          "field": "Total",
-          "type": "quantitative",
-          "scale": {"scheme": "blues"}
-        },
+       
         "tooltip": [
         {"field": "Team/NOC", "type": "nominal", "title": "Country"},
         {"field": "Rank", "type": "quantitative", "title": "Rank"},
