@@ -27,7 +27,7 @@
         "size": {
           "field": "Total",
           "type": "quantitative",
-          "scale": {"rangeMax": 5000},
+          "scale": {"rangeMax": 2500},
           "legend": null
         },
        
