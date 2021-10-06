@@ -1,0 +1,280 @@
+Country,Medal Type,Count
+United States of America,Gold,39
+United States of America,Silver,41
+United States of America,Bronze,33
+China,Gold,38
+China,Silver,32
+China,Bronze,18
+Japan,Gold,27
+Japan,Silver,14
+Japan,Bronze,17
+Great Britain,Gold,22
+Great Britain,Silver,21
+Great Britain,Bronze,22
+Russia,Gold,20
+Russia,Silver,28
+Russia,Bronze,23
+Australia,Gold,17
+Australia,Silver,7
+Australia,Bronze,22
+Netherlands,Gold,10
+Netherlands,Silver,12
+Netherlands,Bronze,14
+France,Gold,10
+France,Silver,12
+France,Bronze,11
+Germany,Gold,10
+Germany,Silver,11
+Germany,Bronze,16
+Italy,Gold,10
+Italy,Silver,10
+Italy,Bronze,20
+Canada,Gold,7
+Canada,Silver,6
+Canada,Bronze,11
+Brazil,Gold,7
+Brazil,Silver,6
+Brazil,Bronze,8
+New Zealand,Gold,7
+New Zealand,Silver,6
+New Zealand,Bronze,7
+Cuba,Gold,7
+Cuba,Silver,3
+Cuba,Bronze,5
+Hungary,Gold,6
+Hungary,Silver,7
+Hungary,Bronze,7
+South Korea,Gold,6
+South Korea,Silver,4
+South Korea,Bronze,10
+Poland,Gold,4
+Poland,Silver,5
+Poland,Bronze,5
+Czechia,Gold,4
+Czechia,Silver,4
+Czechia,Bronze,3
+Kenya,Gold,4
+Kenya,Silver,4
+Kenya,Bronze,2
+Norway,Gold,4
+Norway,Silver,2
+Norway,Bronze,2
+Jamaica,Gold,4
+Jamaica,Silver,1
+Jamaica,Bronze,4
+Spain,Gold,3
+Spain,Silver,8
+Spain,Bronze,6
+Sweden,Gold,3
+Sweden,Silver,6
+Sweden,Bronze,0
+Switzerland,Gold,3
+Switzerland,Silver,4
+Switzerland,Bronze,6
+Denmark,Gold,3
+Denmark,Silver,4
+Denmark,Bronze,4
+Croatia,Gold,3
+Croatia,Silver,3
+Croatia,Bronze,2
+Iran,Gold,3
+Iran,Silver,2
+Iran,Bronze,2
+Serbia,Gold,3
+Serbia,Silver,1
+Serbia,Bronze,5
+Belgium,Gold,3
+Belgium,Silver,1
+Belgium,Bronze,3
+Bulgaria,Gold,3
+Bulgaria,Silver,1
+Bulgaria,Bronze,2
+Slovenia,Gold,3
+Slovenia,Silver,1
+Slovenia,Bronze,1
+Uzbekistan,Gold,3
+Uzbekistan,Silver,0
+Uzbekistan,Bronze,2
+Georgia,Gold,2
+Georgia,Silver,5
+Georgia,Bronze,1
+Taiwan,Gold,2
+Taiwan,Silver,4
+Taiwan,Bronze,6
+Turkey,Gold,2
+Turkey,Silver,2
+Turkey,Bronze,9
+Greece,Gold,2
+Greece,Silver,1
+Greece,Bronze,1
+Uganda,Gold,2
+Uganda,Silver,1
+Uganda,Bronze,1
+Ecuador,Gold,2
+Ecuador,Silver,1
+Ecuador,Bronze,0
+Ireland,Gold,2
+Ireland,Silver,0
+Ireland,Bronze,2
+Israel,Gold,2
+Israel,Silver,0
+Israel,Bronze,2
+Qatar,Gold,2
+Qatar,Silver,0
+Qatar,Bronze,1
+Bahamas,Gold,2
+Bahamas,Silver,0
+Bahamas,Bronze,0
+Kosovo,Gold,2
+Kosovo,Silver,0
+Kosovo,Bronze,0
+Ukraine,Gold,1
+Ukraine,Silver,6
+Ukraine,Bronze,12
+Belarus,Gold,1
+Belarus,Silver,3
+Belarus,Bronze,3
+Romania,Gold,1
+Romania,Silver,3
+Romania,Bronze,0
+Venezuela,Gold,1
+Venezuela,Silver,3
+Venezuela,Bronze,0
+India,Gold,1
+India,Silver,2
+India,Bronze,4
+"Hong Kong,Gold, China"
+"Hong Kong,Silver,1
+"Hong Kong,Bronze,2
+Philippines,Gold,1
+Philippines,Silver,2
+Philippines,Bronze,1
+Slovakia,Gold,1
+Slovakia,Silver,2
+Slovakia,Bronze,1
+South Africa,Gold,1
+South Africa,Silver,2
+South Africa,Bronze,0
+Austria,Gold,1
+Austria,Silver,1
+Austria,Bronze,5
+Egypt,Gold,1
+Egypt,Silver,1
+Egypt,Bronze,4
+Indonesia,Gold,1
+Indonesia,Silver,1
+Indonesia,Bronze,3
+Ethiopia,Gold,1
+Ethiopia,Silver,1
+Ethiopia,Bronze,2
+Portugal,Gold,1
+Portugal,Silver,1
+Portugal,Bronze,2
+Tunisia,Gold,1
+Tunisia,Silver,1
+Tunisia,Bronze,0
+Estonia,Gold,1
+Estonia,Silver,0
+Estonia,Bronze,1
+Fiji,Gold,1
+Fiji,Silver,0
+Fiji,Bronze,1
+Latvia,Gold,1
+Latvia,Silver,0
+Latvia,Bronze,1
+Thailand,Gold,1
+Thailand,Silver,0
+Thailand,Bronze,1
+Bermuda,Gold,1
+Bermuda,Silver,0
+Bermuda,Bronze,0
+Morocco,Gold,1
+Morocco,Silver,0
+Morocco,Bronze,0
+Puerto Rico,Gold,1
+Puerto Rico,Silver,0
+Puerto Rico,Bronze,0
+Colombia,Gold,0
+Colombia,Silver,4
+Colombia,Bronze,1
+Azerbaijan,Gold,0
+Azerbaijan,Silver,3
+Azerbaijan,Bronze,4
+Dominican Republic,Gold,0
+Dominican Republic,Silver,3
+Dominican Republic,Bronze,2
+Armenia,Gold,0
+Armenia,Silver,2
+Armenia,Bronze,2
+Kyrgyzstan,Gold,0
+Kyrgyzstan,Silver,2
+Kyrgyzstan,Bronze,1
+Mongolia,Gold,0
+Mongolia,Silver,1
+Mongolia,Bronze,3
+Argentina,Gold,0
+Argentina,Silver,1
+Argentina,Bronze,2
+San Marino,Gold,0
+San Marino,Silver,1
+San Marino,Bronze,2
+Jordan,Gold,0
+Jordan,Silver,1
+Jordan,Bronze,1
+Malaysia,Gold,0
+Malaysia,Silver,1
+Malaysia,Bronze,1
+Nigeria,Gold,0
+Nigeria,Silver,1
+Nigeria,Bronze,1
+Bahrain,Gold,0
+Bahrain,Silver,1
+Bahrain,Bronze,0
+Saudi Arabia,Gold,0
+Saudi Arabia,Silver,1
+Saudi Arabia,Bronze,0
+Lithuania,Gold,0
+Lithuania,Silver,1
+Lithuania,Bronze,0
+North Macedonia,Gold,0
+North Macedonia,Silver,1
+North Macedonia,Bronze,0
+Namibia,Gold,0
+Namibia,Silver,1
+Namibia,Bronze,0
+Turkmenistan,Gold,0
+Turkmenistan,Silver,1
+Turkmenistan,Bronze,0
+Kazakhstan,Gold,0
+Kazakhstan,Silver,0
+Kazakhstan,Bronze,8
+Mexico,Gold,0
+Mexico,Silver,0
+Mexico,Bronze,4
+Finland,Gold,0
+Finland,Silver,0
+Finland,Bronze,2
+Botswana,Gold,0
+Botswana,Silver,0
+Botswana,Bronze,1
+Burkina Faso,Gold,0
+Burkina Faso,Silver,0
+Burkina Faso,Bronze,1
+Côte d'Ivoire,Gold,0
+Côte d'Ivoire,Silver,0
+Côte d'Ivoire,Bronze,1
+Ghana,Gold,0
+Ghana,Silver,0
+Ghana,Bronze,1
+Grenada,Gold,0
+Grenada,Silver,0
+Grenada,Bronze,1
+Kuwait,Gold,0
+Kuwait,Silver,0
+Kuwait,Bronze,1
+Moldova,Gold,0
+Moldova,Silver,0
+Moldova,Bronze,1
+Syria,Gold,0
+Syria,Silver,0
+Syria,Bronze,1
