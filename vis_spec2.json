@@ -1,6 +1,5 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Medals Won by G20 Countries (categorized)",
   "data": {
     "url": "https://raw.githubusercontent.com/SkyGlider/3179wk9/main/Medals-G20.csv"
   },
