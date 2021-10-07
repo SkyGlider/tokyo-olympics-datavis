@@ -28,7 +28,7 @@
   "transform": [
     {"filter": "Medal_Type == null || datum.Medal_Type == Medal_Type"}
   ],
-  "background": "lightgray",
+  "background": "#f1f1f1",
   "layer":[
     {
       "mark": "bar"
@@ -78,7 +78,7 @@
       "type": "nominal",
       "scale": {
         "domain": ["Gold", "Silver", "Bronze"],
-        "range": ["#e7ba52", "#c7c7c7", "#aec7e8"]
+        "range": ["#e7ba52", "#c7c7c7", "#D2691E"]
       },
       "title": "Medal"
     },
