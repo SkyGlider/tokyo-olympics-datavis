@@ -1,7 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "A visualization of number of medals won by each country in the Tokyo Olympics.",
-  "title": "Tokyo 2020 Olympics: Number of Medals by Country",
   "projection": {"type": "equalEarth"},
   "layer": [
     {
