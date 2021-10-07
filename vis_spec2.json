@@ -28,7 +28,7 @@
   "transform": [
     {"filter": "Medal_Type == null || datum.Medal_Type == Medal_Type"}
   ],
-
+  "background": "lightgray",
   "layer":[
     {
       "mark": "bar"
