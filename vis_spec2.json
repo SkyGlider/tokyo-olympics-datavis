@@ -1,0 +1,92 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Medals Won by G20 Countries (categorized)",
+  "data": {
+    "url": "https://raw.githubusercontent.com/SkyGlider/3179wk9/main/Medals-G20.csv"
+  },
+  "params": [
+    {
+      "name": "Medal_Type",
+      "bind": {
+      "input": "select",
+      "options": [
+        null,
+        "Gold",
+        "Silver",
+        "Bronze"
+        ],
+        "labels":[
+        "Show All",
+        "Gold",
+        "Silver",
+        "Bronze"
+        ],
+        "name": "Filter by Medal"
+      }
+    }
+  ],
+  "transform": [
+    {"filter": "Medal_Type == null || datum.Medal_Type == Medal_Type"}
+  ],
+
+  "layer":[
+    {
+      "mark": "bar"
+    },
+    {
+    "mark": {
+      "type": "text",
+      "align": "right",
+      "baseline": "middle",
+      "dx": 55,
+      "fontSize": 11.5,
+      "fontStyle": "italic"
+    },
+    "encoding": {
+      "text": {
+        "field": "__count_end",
+        "aggregate":"sum",
+        "type": "nominal"
+      },
+      "color": {
+        "value": "black"
+      },
+      "opacity": {
+        "condition": {
+          "test": "datum['Country'] == 'Australia' && datum['Medal_Type'] == 'Bronze'",
+          "value": 1
+        },
+        "value": 0
+      }
+    }
+    }
+  ],
+  "encoding": {
+    "y": {
+      "field": "Country",
+      "type": "nominal",
+      "title": "Country"
+    },
+    "x": {
+      "field": "__count",
+      "aggregate":"sum",
+      "type": "quantitative",
+      "title": "No. of Medals"
+    },
+    "color": {
+      "field": "Medal_Type",
+      "type": "nominal",
+      "scale": {
+        "domain": ["Gold", "Silver", "Bronze"],
+        "range": ["#e7ba52", "#c7c7c7", "#aec7e8"]
+      },
+      "title": "Medal"
+    },
+    "tooltip": [
+      {"field": "Country", "type": "nominal"},
+      {"field": "Medal_Type", "type": "nominal", "title": "Medal"},
+      {"field": "__count", "type": "quantitative", "title": "No. of medals"}
+    ]
+  }
+  
+}
